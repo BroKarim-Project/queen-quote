@@ -1,0 +1,16 @@
+
+-- Kita bakal taruh navgigation di app()
+- atur "/" untuk QUoteApi
+- jadi setiap render QuoteApi dulu  yg ditampilkan 
+- Sisanya atu agar not found
+- untuk tombpl tengah di bakal generat quote baru
+- ketika di halam not found jika tombol tengah di tekan arahkan balik ke home sambil generate quote
+
+PROGRESS KAMIS : 14
+- Ni dh banyak perubah mulai dari bottom navigation yg udah mulai rapi
+- halam not found
+- bisa menghilangkan header bawaan dari navigation
+
+Sisanya paling : 
+- rapikan halam quote : tombol generaye, copy, share ke twit ama sound
+- rapikan halaman not found
