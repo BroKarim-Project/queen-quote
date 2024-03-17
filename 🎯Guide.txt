@@ -14,3 +14,23 @@ PROGRESS KAMIS : 14
 Sisanya paling : 
 - rapikan halam quote : tombol generaye, copy, share ke twit ama sound
 - rapikan halaman not found
+
+
+
+
+
+
+
+------------------------------
+import { NavigationContainer } from '@react-navigation/native';
+import Tabs from './components/Nav';
+
+const App = () => {
+  return (
+    <NavigationContainer>
+      <Tabs />
+    </NavigationContainer>
+  );
+};
+
+export default App;
