@@ -15,10 +15,25 @@ Sisanya paling :
 - rapikan halam quote : tombol generaye, copy, share ke twit ama sound
 - rapikan halaman not found
 
+Apk ID
+579842
 
 
+ const access_key = 'p1zBkcdGmJH6ikTFlQO4QUsz_ODs9RbxJ-hT6-xSn_g';
 
 
+Access Key
+p1zBkcdGmJH6ikTFlQO4QUsz_ODs9RbxJ-hT6-xSn_g
+
+Secret Key
+w7-FM9_BSMRY7flVbTj5a0pvTDoNEJDQtGJPkTjP2qQ
+
+
+- Cara import font di react native
+https://docs.expo.dev/develop/user-interface/fonts/
+
+- Solusi klo dapatin library error
+KLo memnag tuh function ada bawaan expo, install aja punya expo dan pake punya dia
 
 
 ------------------------------
