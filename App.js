@@ -9,6 +9,7 @@ const App = () => {
   const [Author, setAuthor] = useState('Loading...');
   const [isLoading, setIsLoading] = useState(false);
   const [backgroundImage, setBackgroundImage] = useState('');
+  //use your own key
   const access_key = '*****************';
   
 
